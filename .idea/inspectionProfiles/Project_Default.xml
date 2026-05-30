@@ -1,0 +1,65 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ConstantValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DataFlowIssue" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="InfiniteRecursion" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JpaDataSourceORMInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MavenDuplicatePluginInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NullableProblems" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="REPORT_NULLABLE_METHOD_OVERRIDES_NOTNULL" value="true" />
+      <option name="REPORT_NOT_ANNOTATED_METHOD_OVERRIDES_NOTNULL" value="true" />
+      <option name="REPORT_NOTNULL_PARAMETER_OVERRIDES_NULLABLE" value="true" />
+      <option name="REPORT_NOT_ANNOTATED_PARAMETER_OVERRIDES_NOTNULL" value="true" />
+      <option name="REPORT_NOT_ANNOTATED_GETTER" value="true" />
+      <option name="REPORT_NOT_ANNOTATED_SETTER_PARAMETER" value="true" />
+      <option name="REPORT_ANNOTATION_NOT_PROPAGATED_TO_OVERRIDERS" value="true" />
+      <option name="REPORT_NULLS_PASSED_TO_NON_ANNOTATED_METHOD" value="true" />
+    </inspection_tool>
+    <inspection_tool class="RawUseOfParameterizedType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringDataMethodInconsistencyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpringElInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="common-lib" />
+          <option value="common-lib" />
+          <option value="account-service" />
+          <option value="workspace-service" />
+          <option value="intelligence-service" />
+          <option value="workspace-service" />
+          <option value="workspace-service" />
+          <option value="workspace-service" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.bouncycastle:bcprov-jdk18on:1.81" />
+          <option value="commons-fileupload:commons-fileupload:1.5" />
+          <option value="commons-fileupload:commons-fileupload:1.5" />
+          <option value="commons-fileupload:commons-fileupload:1.5" />
+          <option value="commons-fileupload:commons-fileupload:1.5" />
+          <option value="org.bouncycastle:bcprov-jdk18on:1.81" />
+          <option value="org.apache.httpcomponents:httpclient:4.5.3" />
+          <option value="commons-configuration:commons-configuration:1.10" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
