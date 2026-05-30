@@ -1,0 +1,29 @@
+spring:
+  config:
+    activate:
+      on-profile: k8s
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://bitbucket.org/springfordev11/lovable-config-server.git
+          username: ${GIT_USERNAME}
+          password: ${GIT_PASSWORD}
+          default-label: main
+          clone-on-start: true
+
+    discovery:
+      enabled: false
+
+
+
+eureka:
+  client:
+    enabled: false
+    fetch-registry: false
+    register-with-eureka: false
+
+
+
+

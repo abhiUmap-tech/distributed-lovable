@@ -1,0 +1,2 @@
+com.projects.commonlib.security.SharedSecurityAutoConfiguration
+com.projects.commonlib.error.SharedExceptionAutoConfiguration
