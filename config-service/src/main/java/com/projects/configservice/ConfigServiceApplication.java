@@ -13,3 +13,5 @@ public class ConfigServiceApplication {
 	}
 
 }
+
+//Add CI/CD for Config service

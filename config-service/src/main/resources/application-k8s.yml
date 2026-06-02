@@ -16,8 +16,6 @@ spring:
     discovery:
       enabled: false
 
-
-
 eureka:
   client:
     enabled: false
