@@ -336,7 +336,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## 📞 Contact & Professional Information
 
 - **GitHub**: [@abhiUmap-tech](https://github.com/abhiUmap-tech)
-- **Email**: abhiumap31#gmail.com
+- **Email**: abhiumap31@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/abhishekumap31/
 
 ---
@@ -358,8 +358,8 @@ This project leverages and demonstrates expertise in:
 
 ### ⭐ If you find this project valuable, please star it!
 
-**This project represents production-grade software engineering practices and is built to impress technical recruiters and hiring managers.**
+**This project is a demonstration of real-world distributed systems engineering, cloud-native architecture, and best practices in production Java development.**
 
-**Ready to make an impact? Let's connect!**
+**Open to collaborations and technical discussions!**
 
 </div>
