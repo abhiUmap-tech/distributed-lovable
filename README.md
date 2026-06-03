@@ -336,8 +336,8 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## 📞 Contact & Professional Information
 
 - **GitHub**: [@abhiUmap-tech](https://github.com/abhiUmap-tech)
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: abhiumap31#gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/abhishekumap31/
 
 ---
 
